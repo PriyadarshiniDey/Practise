@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the countingValleys function below.
+    
     static int countingValleys(int n, String s) {
         int v=0;
         int lvl=0;
